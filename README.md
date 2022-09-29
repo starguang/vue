@@ -1,4 +1,4 @@
-这是vue的联系项目
+这是vue的练习项目
 # antd-demo
 
 ## Project setup
